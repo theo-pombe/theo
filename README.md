@@ -1,6 +1,6 @@
 # Mathew Joseph
 
-I am a frontend developer based in Tanzania.
+I am a frontend developer based in Tanzania 🇹🇿
 
 ## About Me
 
