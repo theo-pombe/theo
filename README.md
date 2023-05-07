@@ -17,4 +17,4 @@ I am a frontend developer based in Tanzania 🇹🇿
 
 ## Projects
 - [Manage](https://theo-pombe.github.io/manage-landing-page/) Landing Page
--
+- [Bookmark](https://theo-pombe.github.io/bookmark-landing-page/) Landing Page
