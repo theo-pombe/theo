@@ -13,9 +13,8 @@ I am a frontend developer based in Tanzania 🇹🇿
 
 ### Framework and Libraries
 - Reactjs
-- React Native
-- Bootstrap CSS
+- Tailwind CSS
 
 ## Projects
-- 
+- [Manage](https://theo-pombe.github.io/manage-landing-page/) Landing Page
 -
