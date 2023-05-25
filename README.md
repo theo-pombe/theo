@@ -12,7 +12,7 @@ I am a frontend developer based in Tanzania 🇹🇿
 - JavaScript
 
 ### Framework and Libraries
-- Reactjs
+- Svelte JS
 - Tailwind CSS
 
 ## Projects
