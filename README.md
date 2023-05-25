@@ -16,5 +16,5 @@ I am a frontend developer based in Tanzania 🇹🇿
 - Tailwind CSS
 
 ## Projects
-- [Manage](https://theo-pombe.github.io/manage-landing-page/) Landing Page
-- [Bookmark](https://theo-pombe.github.io/bookmark-landing-page/) Landing Page
+- [Manage](https://theo-pombe.github.io/manage-landing-page/) Landing Page with [source code](https://github.com/theo-pombe/manage-landing-page.git)
+- [Bookmark](https://theo-pombe.github.io/bookmark-landing-page/) Landing Page with [source code](https://github.com/theo-pombe/bookmark-landing-page.git)
