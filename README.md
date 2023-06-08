@@ -19,7 +19,9 @@ I am a frontend developer based in Tanzania 🇹🇿
 
 ## Projects
 - [Manage](https://theo-pombe.github.io/manage-landing-page/) Landing Page with [source code](https://github.com/theo-pombe/manage-landing-page.git)
+![manage landing page](./manage-screenshot.png)
+
 - [Bookmark](https://the-bookmark-landing-page.netlify.app/) Landing Page with [source code](https://github.com/theo-pombe/bookmark-landing-page.git)
-![](./bookmak-screenshot.png)
+![bookmark landing page](./bookmak-screenshot.png)
 
 <!-- - [Feedback](https://svelte-feedback-app-tau.vercel.app/) Svelte App with [Source code](https://github.com/theo-pombe/svelte-feedback-app) -->
